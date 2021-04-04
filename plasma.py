@@ -12,8 +12,8 @@ class Plasma:
     def __init__(self):
         px.init(64, 64, fps=60)
 
-        self.cols = [0, 1, 5, 12, 6, 7]
-        # self.cols = [15, 14, 8, 2, 4, 9, 10, 11, 3, 1, 5, 12, 6, 7]
+        # self.cols = [0, 1, 5, 12, 6, 7]
+        self.cols = [15, 14, 8, 2, 4, 9, 10, 11, 3, 1, 5, 12, 6, 7]
 
         px.run(self.update, self.draw)
 
@@ -63,7 +63,7 @@ class Plasma:
 
                 # composite
                 this_colour = (
-                    2.2
+                    6.2
                     * (
                         sin(
                             (
@@ -80,7 +80,7 @@ class Plasma:
                         )
                     )
                     / 2
-                    + 2.5
+                    + 6.5
                 )
 
                 px.pset(x, y, self.cols[round(this_colour)])
