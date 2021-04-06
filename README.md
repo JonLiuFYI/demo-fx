@@ -3,6 +3,10 @@ Demoscene-style effects implemented in Pyxel
 
 © 2021 JonLiuFYI
 
+## Dependencies
+* Pyxel
+
+## Effects
 * plasma
 * simple_scroll
 

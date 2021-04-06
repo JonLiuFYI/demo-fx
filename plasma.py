@@ -63,7 +63,7 @@ class Plasma:
 
                 # composite
                 this_colour = (
-                    6.2
+                    3.1
                     * (
                         sin(
                             (
@@ -79,7 +79,6 @@ class Plasma:
                             sqrt((cx ** 2 + cy ** 2) / 5 + 1000) + px.frame_count / 15
                         )
                     )
-                    / 2
                     + 6.5
                 )
 
