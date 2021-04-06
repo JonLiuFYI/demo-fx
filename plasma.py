@@ -3,7 +3,6 @@
 © 2021 JonLiuFYI, licensed GPL v3.
 """
 from math import sin, cos, sqrt
-from typing import List
 
 import pyxel as px
 
@@ -12,8 +11,7 @@ class Plasma:
     def __init__(self):
         px.init(64, 64, fps=60)
 
-        # self.cols = [0, 1, 5, 12, 6, 7]
-        self.cols = [15, 14, 8, 2, 4, 9, 10, 11, 3, 1, 5, 12, 6, 7]
+        self.colours = [15, 14, 8, 2, 4, 9, 10, 11, 3, 1, 5, 12, 6, 7]
 
         px.run(self.update, self.draw)
 
@@ -21,68 +19,33 @@ class Plasma:
         pass
 
     def draw(self):
-        px.cls(0)
+        fc = px.frame_count
+        h = px.height
+        w = px.width
 
-        for y in range(px.height):
-            for x in range(px.width):
-                # simple stripes
-                # this_colour = 2.2 * sin(x / 6 + px.frame_count / 20) + 2.5
+        for y in range(h):
+            for x in range(w):
+                # circle centre
+                circx = x + 28 * sin(fc / 50) - w / 2
+                circy = y + 19 * cos(fc / 30) - h / 2
 
-                # spinning stripes
-                # this_colour = (
-                #     2.2
-                #     * sin(
-                #         (x * sin(px.frame_count / 27) + y * cos(px.frame_count / 21))
-                #         / 4
-                #         + px.frame_count / 20
-                #     )
-                #     + 2.5
-                # )
-
-                # complicated
-                # this_colour = (
-                #     2.2
-                #     * sin(
-                #         (x * sin(px.frame_count / 27) + y * cos(px.frame_count / 21))
-                #         / 4
-                #         + sin(x / 6 + px.frame_count / 30) / 2
-                #         + cos(y / 1.6 + px.frame_count / 50)
-                #         + px.frame_count / 20
-                #     )
-                #     + 2.5
-                # )
-
-                # circle
-                cx = x + 28 * sin(px.frame_count / 50) - px.width / 2
-                cy = y + 19 * cos(px.frame_count / 30) - px.height / 2
-                # this_colour = (
-                #     2.2
-                #     * sin(sqrt((cx ** 2 + cy ** 2) / 5 + 1000) + px.frame_count / 15)
-                #     + 2.5
-                # )
-
-                # composite
-                this_colour = (
+                # ideal amplitude is 6.2, a bit less than half of len(colours)-1,
+                #   so the wave reaches much of the palette range
+                # ideal height is +6.5, half of len(colours)-1, to put the wave's
+                #   axis in the middle of the palette
+                this_colour = round(
+                    # (ideal amplitude / number of inner functions), eg. 6.2 / 2 = 3.1
                     3.1
                     * (
-                        sin(
-                            (
-                                x * sin(px.frame_count / 27)
-                                + y * cos(px.frame_count / 21)
-                            )
-                            / 9
-                            # + sin(x / 6 + px.frame_count / 30) / 2
-                            # + cos(y / 1.6 + px.frame_count / 50)
-                            + px.frame_count / 20
-                        )
+                        sin((x * sin(fc / 27) + y * cos(fc / 21)) / 9 + fc / 20)
                         + sin(
-                            sqrt((cx ** 2 + cy ** 2) / 5 + 1000) + px.frame_count / 15
+                            sqrt((circx * circx + circy * circy) / 5 + 1000) + fc / 15
                         )
                     )
                     + 6.5
                 )
 
-                px.pset(x, y, self.cols[round(this_colour)])
+                px.pset(x, y, self.colours[this_colour])
 
 
 Plasma()
