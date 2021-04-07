@@ -7,6 +7,7 @@ Demoscene-style effects implemented in Pyxel
 * Pyxel
 
 ## Effects
+* chasm
 * plasma
 * simple_scroll
 

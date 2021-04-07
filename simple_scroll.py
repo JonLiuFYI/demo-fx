@@ -22,7 +22,6 @@ class SimpleScroll:
         px.run(self.update, self.draw)
 
     def update(self) -> None:
-
         for l in self.msg:
             l.update()
 
@@ -40,7 +39,7 @@ class Letter:
 
     def update(self):
         self.x = (self.x - 1) % (px.width + 5)
-        self.y = 128 + 30 * sin(px.frame_count / 20 - self.x/70)
+        self.y = 128 + 30 * sin(px.frame_count / 20 - self.x / 70)
 
     def draw(self):
         px.text(self.x, self.y, self.letter, 8)
