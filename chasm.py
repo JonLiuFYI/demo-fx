@@ -2,6 +2,7 @@
 """chasm.py: pseudo-3D effect of flying over a deep chasm
 © 2021 JonLiuFYI, licensed GPL v3.
 """
+from dataclasses import dataclass
 
 import pyxel as px
 
@@ -82,7 +83,6 @@ class Chasm:
         [s.update() for s in self.strips]
 
     def draw(self):
-        fc = px.frame_count
         px.cls(7)
 
         px.rect(self.strip_w + 1, 0, WIDTH - 2 * self.strip_w, HEIGHT, 6)
@@ -99,13 +99,13 @@ class Chasm:
         [s.draw() for s in self.strips]
 
 
+@dataclass
 class Strip:
-    def __init__(self, x, y, w, h, *, tri_on_right=True):
-        self.x = x
-        self.y = y
-        self.w = w
-        self.h = h
-        self.tri_on_right = tri_on_right
+    x: int
+    y: int
+    w: int
+    h: int
+    tri_on_right: bool = True
 
     def update(self):
         self.y -= 1
