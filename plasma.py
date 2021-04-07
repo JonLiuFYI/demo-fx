@@ -7,9 +7,13 @@ from math import sin, cos, sqrt
 import pyxel as px
 
 
+WIDTH = 64
+HEIGHT = 64
+
+
 class Plasma:
     def __init__(self):
-        px.init(64, 64, fps=60)
+        px.init(WIDTH, HEIGHT, fps=60)
 
         self.colours = [15, 14, 8, 2, 4, 9, 10, 11, 3, 1, 5, 12, 6, 7]
 
@@ -20,14 +24,12 @@ class Plasma:
 
     def draw(self):
         fc = px.frame_count
-        h = px.height
-        w = px.width
 
-        for y in range(h):
-            for x in range(w):
+        for y in range(HEIGHT):
+            for x in range(WIDTH):
                 # circle centre
-                circx = x + 28 * sin(fc / 50) - w / 2
-                circy = y + 19 * cos(fc / 30) - h / 2
+                circx = x + 28 * sin(fc / 50) - WIDTH / 2
+                circy = y + 19 * cos(fc / 30) - HEIGHT / 2
 
                 # ideal amplitude is 6.2, a bit less than half of len(colours)-1,
                 #   so the wave reaches much of the palette range
