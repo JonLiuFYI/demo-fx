@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,9 +53,10 @@
      id="layer1">
     <g
        id="g1066"
-       transform="translate(23.590711,-16.275767)">
+       transform="matrix(0.86526692,0,0,0.86526692,8.3453258,-32.99101)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#010101;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#010101;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect833"
          width="14.997208"
          height="14.997208"
@@ -63,7 +64,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="14.392918"
          y="121.1208"
          id="text869"><tspan
@@ -71,13 +72,14 @@
            id="tspan867"
            x="14.392918"
            y="121.1208"
-           style="stroke-width:0.264583">0</tspan></text>
+           style="stroke-width:0.305782">0</tspan></text>
     </g>
     <g
        id="g1061"
-       transform="translate(144.13879,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,112.6516,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#2b335f;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#2b335f;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect871"
          width="14.997208"
          height="14.997208"
@@ -85,7 +87,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="29.390125"
          y="121.1208"
          id="text875"><tspan
@@ -93,13 +95,14 @@
            id="tspan873"
            x="29.390125"
            y="121.1208"
-           style="stroke-width:0.264583">1</tspan></text>
+           style="stroke-width:0.305782">1</tspan></text>
     </g>
     <g
        id="g1056"
-       transform="translate(39.158345,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,21.815485,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#7e2072;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#7e2072;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect877"
          width="14.997208"
          height="14.997208"
@@ -107,7 +110,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="44.387329"
          y="121.1208"
          id="text881"><tspan
@@ -115,13 +118,14 @@
            id="tspan879"
            x="44.387329"
            y="121.1208"
-           style="stroke-width:0.264583">2</tspan></text>
+           style="stroke-width:0.305782">2</tspan></text>
     </g>
     <g
        id="g1051"
-       transform="translate(99.147176,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,73.721836,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#19959c;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#19959c;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect883"
          width="14.997208"
          height="14.997208"
@@ -129,7 +133,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="59.384537"
          y="121.1208"
          id="text887"><tspan
@@ -137,13 +141,14 @@
            id="tspan885"
            x="59.384537"
            y="121.1208"
-           style="stroke-width:0.264583">3</tspan></text>
+           style="stroke-width:0.305782">3</tspan></text>
     </g>
     <g
        id="g1037"
-       transform="translate(24.161138,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,8.8388969,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#8b4852;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#8b4852;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect889"
          width="14.997208"
          height="14.997208"
@@ -151,7 +156,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="74.381744"
          y="121.1208"
          id="text893"><tspan
@@ -159,13 +164,14 @@
            id="tspan891"
            x="74.381744"
            y="121.1208"
-           style="stroke-width:0.264583">4</tspan></text>
+           style="stroke-width:0.305782">4</tspan></text>
     </g>
     <g
        id="g1032"
-       transform="translate(99.14717,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,73.721831,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#395c98;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#395c98;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect895"
          width="14.997208"
          height="14.997208"
@@ -173,7 +179,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="89.378952"
          y="121.1208"
          id="text899"><tspan
@@ -181,13 +187,14 @@
            id="tspan897"
            x="89.378952"
            y="121.1208"
-           style="stroke-width:0.264583">5</tspan></text>
+           style="stroke-width:0.305782">5</tspan></text>
     </g>
     <g
        id="g1027"
-       transform="translate(114.14438,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,86.69842,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#a9c1ff;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#a9c1ff;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect901"
          width="14.997208"
          height="14.997208"
@@ -195,7 +202,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="104.37616"
          y="121.1208"
          id="text905"><tspan
@@ -203,13 +210,14 @@
            id="tspan903"
            x="104.37616"
            y="121.1208"
-           style="stroke-width:0.264583">6</tspan></text>
+           style="stroke-width:0.305782">6</tspan></text>
     </g>
     <g
        id="g1022"
-       transform="translate(114.14438,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,86.69842,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#eeeeee;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#eeeeee;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect907"
          width="14.997208"
          height="14.997208"
@@ -217,7 +225,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="119.37337"
          y="121.1208"
          id="text911"><tspan
@@ -225,13 +233,14 @@
            id="tspan909"
            x="119.37337"
            y="121.1208"
-           style="stroke-width:0.264583">7</tspan></text>
+           style="stroke-width:0.305782">7</tspan></text>
     </g>
     <g
        id="g1017"
-       transform="translate(-65.822108,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-69.020628,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#d4186c;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#d4186c;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect913"
          width="14.997208"
          height="14.997208"
@@ -239,7 +248,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="134.37057"
          y="121.1208"
          id="text917"><tspan
@@ -247,13 +256,14 @@
            id="tspan915"
            x="134.37057"
            y="121.1208"
-           style="stroke-width:0.264583">8</tspan></text>
+           style="stroke-width:0.305782">8</tspan></text>
     </g>
     <g
        id="g1012"
-       transform="translate(-35.827693,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-43.067453,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#d38441;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#d38441;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect919"
          width="14.997208"
          height="14.997208"
@@ -261,7 +271,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="149.36778"
          y="121.1208"
          id="text923"><tspan
@@ -269,13 +279,14 @@
            id="tspan921"
            x="149.36778"
            y="121.1208"
-           style="stroke-width:0.264583">9</tspan></text>
+           style="stroke-width:0.305782">9</tspan></text>
     </g>
     <g
        id="g1007"
-       transform="translate(-35.827693,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-43.067453,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#e9c35b;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#e9c35b;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect925"
          width="14.997208"
          height="14.997208"
@@ -283,7 +294,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="164.36499"
          y="121.1208"
          id="text929"><tspan
@@ -291,13 +302,14 @@
            id="tspan927"
            x="164.36499"
            y="121.1208"
-           style="stroke-width:0.264583">10</tspan></text>
+           style="stroke-width:0.305782">10</tspan></text>
     </g>
     <g
        id="g1002"
-       transform="translate(-35.827693,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-43.067453,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#70c6a9;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#70c6a9;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect931"
          width="14.997208"
          height="14.997208"
@@ -305,7 +317,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="179.3622"
          y="121.1208"
          id="text935"><tspan
@@ -313,13 +325,14 @@
            id="tspan933"
            x="179.3622"
            y="121.1208"
-           style="stroke-width:0.264583">11</tspan></text>
+           style="stroke-width:0.305782">11</tspan></text>
     </g>
     <g
        id="g997"
-       transform="translate(9.1639241,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-4.1376953,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#7696de;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#7696de;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect937"
          width="14.997208"
          height="14.997208"
@@ -327,7 +340,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="194.35941"
          y="121.1208"
          id="text941"><tspan
@@ -335,13 +348,14 @@
            id="tspan939"
            x="194.35941"
            y="121.1208"
-           style="stroke-width:0.264583">12</tspan></text>
+           style="stroke-width:0.305782">12</tspan></text>
     </g>
     <g
        id="g992"
-       transform="translate(17.373003,12.252547)">
+       transform="matrix(0.86526692,0,0,0.86526692,2.9653491,-8.3064029)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#a3a3a3;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#a3a3a3;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect943"
          width="14.997208"
          height="14.997208"
@@ -349,7 +363,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="209.35661"
          y="121.1208"
          id="text947"><tspan
@@ -357,13 +371,14 @@
            id="tspan945"
            x="209.35661"
            y="121.1208"
-           style="stroke-width:0.264583">13</tspan></text>
+           style="stroke-width:0.305782">13</tspan></text>
     </g>
     <g
        id="g987"
-       transform="translate(-170.80256,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-159.85674,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#ff9798;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#ff9798;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect949"
          width="14.997208"
          height="14.997208"
@@ -371,7 +386,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="224.35382"
          y="121.1208"
          id="text953"><tspan
@@ -379,13 +394,14 @@
            id="tspan951"
            x="224.35382"
            y="121.1208"
-           style="stroke-width:0.264583">14</tspan></text>
+           style="stroke-width:0.305782">14</tspan></text>
     </g>
     <g
        id="g982"
-       transform="translate(-200.79697,-64.188685)">
+       transform="matrix(0.86526692,0,0,0.86526692,-185.80991,-74.448472)"
+       style="stroke-width:1.15571">
       <rect
-         style="fill:#edc7b0;fill-opacity:1;stroke-width:0.0780506;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="fill:#edc7b0;fill-opacity:1;stroke-width:0.0902041;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          id="rect955"
          width="14.997208"
          height="14.997208"
@@ -393,7 +409,7 @@
          y="97.949532" />
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         style="font-size:7.7611px;line-height:0;font-family:'Noto Sans CJK HK';-inkscape-font-specification:'Noto Sans CJK HK';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#010101;fill-opacity:1;stroke-width:0.305782;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
          x="239.35103"
          y="121.1208"
          id="text959"><tspan
@@ -401,7 +417,7 @@
            id="tspan957"
            x="239.35103"
            y="121.1208"
-           style="stroke-width:0.264583">15</tspan></text>
+           style="stroke-width:0.305782">15</tspan></text>
     </g>
   </g>
 </svg>
