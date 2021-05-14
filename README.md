@@ -3,6 +3,10 @@ Demoscene-style effects implemented in Pyxel
 
 © 2021 JonLiuFYI
 
+![plasma effect](https://i.imgur.com/UVRODP6.gif)
+
+![chasm effect](https://i.imgur.com/zFx4ozG.gif)
+
 ## Dependencies
 * Pyxel
 
